@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n7cgMR4w3UCf1RNB837yYw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="b236b6cb-8673-4aa8-9268-0d0b55a85f1c" CvElementArea="1158, 474, 20, 20" CvTextArea="1005, 474, 158, 17" CvTextArgument="Créditos Vinculáveis" CvType="ArrowButton" DesignTimeRectangle="989, 462, 202, 40" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl parentid='dropDown_CreditosVinculaveis' tag='A' /&gt;" Guid="e1a82b7d-70df-479f-b177-2b17529c2763" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b236b6cb-8673-4aa8-9268-0d0b55a85f1c" CvTextArea="1005, 474, 158, 17" CvTextArgument="Créditos Vinculáveis" CvType="Text" DesignTimeRectangle="1005, 473, 155, 17" ElementType="Text" Guid="97e18c95-5788-47e0-b310-ee58b3d37acd" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="12daf1d3d255f3eeeaec03e1503b33b7.png" xmlns="">0IIzewcFXwkSCKyoYSF_wgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

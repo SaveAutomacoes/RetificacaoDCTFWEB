@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Valor Crédito(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "teaYdkTPJkWKIN2OkPNsjA",
+  "Reference": "38Jer1OgyU2lO2L63JowIQ/teaYdkTPJkWKIN2OkPNsjA",
+  "ParentRef": "38Jer1OgyU2lO2L63JowIQ/Ptpq5mEL6Umky9yObY06KQ",
+  "Created": "2025-06-06T19:13:08.1274478Z",
+  "Updated": "2025-06-06T19:13:08.1274478Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

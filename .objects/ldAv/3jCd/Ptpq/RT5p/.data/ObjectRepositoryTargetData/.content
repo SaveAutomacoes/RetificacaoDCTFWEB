@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BkLv7T47_EGUM-909pOPew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="578f109e-eca5-43ba-8a21-c0f0730d6809" CvElementArea="1411, 851, 177, 38" CvTextArea="1425, 861, 150, 18" CvTextArgument="Confirmar Alteração" CvType="Button" DesignTimeRectangle="1416, 852, 171, 35" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_btnConfirmarEdicao' tag='A' type='' class='btn btn-primary btn-exibe-processando' aaname='Confirmar Alteração' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Confirmar Alteração' /&gt;" Guid="32733ac0-c8e1-4e9c-80e3-761161352bca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="578f109e-eca5-43ba-8a21-c0f0730d6809" CvTextArea="1425, 861, 150, 18" CvTextArgument="Confirmar Alteração" CvType="Text" DesignTimeRectangle="1341, 845, 246, 49" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl type='' parentid='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_pnCreditos' tag='DIV' class='form-actions barra-botoes' aaname='                                                                                                                                                                                                                                                                       ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Confirmar Alteração' /&gt;" Guid="52e23bac-d579-4f45-a107-fc370b123fc2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d12fd9346bbda0f24af26827a996d899.png" xmlns="">040gnW03uYkOFIMYox695XQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

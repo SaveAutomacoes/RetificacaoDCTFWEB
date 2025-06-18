@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vKChKjD6l0uGrEWwXfmuHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="d4b23f1d-fde7-46e5-8c71-e033c716a123" CvTextArea="51, 744, 235, 17" CvTextArgument="i Nenhuma declaração encontrada" CvType="Text" DesignTimeRectangle="30, 726, 1878, 51" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='DIV' class='alert alert-info' aaname='Nenhuma declaração encontrada' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Nenhuma declaração encontrada' /&gt;" Guid="9bd7c0b9-d917-4dfb-82e2-437ef61d6b1e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d4b23f1d-fde7-46e5-8c71-e033c716a123" CvTextArea="80, 744, 206, 16" CvTextArgument="Nenhuma declaração encontrada" CvType="Text" DesignTimeRectangle="79, 743, 206, 17" ElementType="Text" Guid="702f44ee-dc24-46a2-ac50-411e42ba3e38" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2e664a9cf2ab4251e8ec1ef19e2d23c.png" xmlns="">0Lu-u7Pbz-063qB7sj1hHWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

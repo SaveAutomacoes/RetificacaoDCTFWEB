@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z8MT3es7bka_LnBrtvjIeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="3dc2bd6e-de55-44f5-9e7d-a0dc9aea690f" CvTextArea="1209, 624, 90, 20" CvTextArgument="Suspensão" CvType="Text" DesignTimeRectangle="1209, 623, 90, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Suspensão' parentid='dropDown_Creditos_Menu' tag='A' /&gt;" Guid="f48ab51c-3070-4c05-bf78-dd1f549384c7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3dc2bd6e-de55-44f5-9e7d-a0dc9aea690f" CvTextArea="1209, 624, 90, 20" CvTextArgument="Suspensão" CvType="Text" DesignTimeRectangle="1187, 614, 198, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Suspensão' parentid='dropDown_Creditos_Menu' tag='A' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Suspensão' /&gt;" Guid="6be102b9-e0fe-4188-85ed-73cb63f88442" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c011be3c9134d2b63cf2d21a441e4e83.png" xmlns="">0pugFMTdi60uQRpIJSClPWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

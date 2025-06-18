@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Prosseguir",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2tumqREh-Ueo9j1eQu1gSA",
+  "Reference": "38Jer1OgyU2lO2L63JowIQ/2tumqREh-Ueo9j1eQu1gSA",
+  "ParentRef": "38Jer1OgyU2lO2L63JowIQ/Ptpq5mEL6Umky9yObY06KQ",
+  "Created": "2025-06-06T18:06:33.2342207Z",
+  "Updated": "2025-06-06T18:06:33.2342207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

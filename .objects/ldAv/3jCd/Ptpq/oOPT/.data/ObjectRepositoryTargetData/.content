@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PYrXu4X5Y0K5MvkkgY13Yw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="25b625a5-f32e-40b9-880c-94db3fd3af38" CvElementArea="1800, 671, 45, 38" CvType="Button" DesignTimeRectangle="1801, 672, 44, 35" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_gvCreditosAgrupadosPorProcesso' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_gvCreditosAgrupadosPorProcesso_btnAlterarValorSuspenso_0' type='' tag='A' class='btn btn-table image-tabela-editar-valor-suspenso btn-exibe-processando' aaname='Alterar Valor Suspenso' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3e2d00b1-e0f7-4fe5-8665-5e9e727977df" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="25b625a5-f32e-40b9-880c-94db3fd3af38" CvTextArea="1766, 642, 58, 17" CvTextArgument="Serviços" CvType="Text" DesignTimeRectangle="1684, 629, 225, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_gvCreditosAgrupadosPorProcesso' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Serviços' type='' tag='TH' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Serviços' /&gt;" Guid="e0c8bf5e-1ca0-4c72-aaf8-f5e805ed0595" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f171a5f5059455378f73bb78a6c960f7.png" xmlns="">0hNqrNj88pUaE5_VvWYmD1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

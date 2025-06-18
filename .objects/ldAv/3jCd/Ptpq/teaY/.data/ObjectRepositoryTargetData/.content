@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Au6pILmTCUmjsfryuiUBwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="66e65972-1d25-4536-8b42-6a85877c0fd8" CvTextArea="1512, 805, 32, 17" CvTextArgument="0,00" CvType="Text" DesignTimeRectangle="1316, 797, 263, 32" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_tabelaCreditos_gvCreditos' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_tabelaCreditos_gvCreditos' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl type='text' tag='INPUT' class='form-control valorDecimalClass ' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a0365afb-22b9-45af-bc18-a15b427b27f9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="66e65972-1d25-4536-8b42-6a85877c0fd8" CvTextArea="1397, 732, 91, 15" CvTextArgument="Valor Crédito" CvType="Text" DesignTimeRectangle="1302, 719, 284, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_tabelaCreditos_gvCreditos' tag='TABLE' /&gt;&lt;webctrl aaname='Valor Crédito' tableRow='1' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='cphConteudo_modalEdicaoCredito_modalEdicaoCredito_tabelaCreditos_gvCreditos' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Valor Crédito' type='' tag='TH' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Valor Crédito' /&gt;" Guid="b28d2d5d-f786-4342-9467-90572fb02dd4" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c7e4394b1b8ce4b1386ff6cb75145fd4.png" xmlns="">0FXHkfZ-ib0C_rQiy4Swu1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Pesquisar",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BSgM739VVEWkAvN0ZgKxRg",
+  "Reference": "38Jer1OgyU2lO2L63JowIQ/BSgM739VVEWkAvN0ZgKxRg",
+  "ParentRef": "38Jer1OgyU2lO2L63JowIQ/Ptpq5mEL6Umky9yObY06KQ",
+  "Created": "2025-06-06T18:27:35.7708547Z",
+  "Updated": "2025-06-06T18:27:35.7708547Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

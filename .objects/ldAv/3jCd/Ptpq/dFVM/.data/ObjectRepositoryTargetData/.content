@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wpxDX89rGkiUhgk3YUIWww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="b236b6cb-8673-4aa8-9268-0d0b55a85f1c" CvTextArea="1012, 587, 95, 18" CvTextArgument="Pagamento" CvType="Text" DesignTimeRectangle="990, 578, 198, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl parentid='dropDown_Pagamento' tag='A' /&gt;" Guid="0783f2bc-5094-49d5-874f-391051b5583b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b236b6cb-8673-4aa8-9268-0d0b55a85f1c" CvTextArea="1012, 587, 95, 18" CvTextArgument="Pagamento" CvType="Text" DesignTimeRectangle="1012, 587, 95, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='dropDown_Pagamento' tag='A' type='' class='' aaname='Pagamento' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Pagamento' /&gt;" Guid="94c6e1dd-1cf2-4404-ba0c-f8443d0f29d7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9df8af60a42c3b6b265a30b107736bc.png" xmlns="">0xu7GsXuVzUyzOJWbjPMboA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lR1RQKxR50uOXzXyObmx5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="54d05bac-d17f-4a0c-9099-bb5ee8732ec9" CvElementArea="1637, 838, 46, 38" CvType="Button" DesignTimeRectangle="1638, 840, 44, 35" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='btn btn-table image-tabela-editar btn-exibe-processando' aaname='Editar' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ebc7aec5-620a-415c-bf6a-7bb1c2fd26ea" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="54d05bac-d17f-4a0c-9099-bb5ee8732ec9" DesignTimeRectangle="1625, 790, 284, 49" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Serviços' type='' tag='TH' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Serviços' /&gt;" Guid="303193a0-059e-4837-a510-ed9582e360ab" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="54d05bac-d17f-4a0c-9099-bb5ee8732ec9" CvTextArea="1737, 802, 57, 17" CvTextArgument="Serviços" CvType="Text" DesignTimeRectangle="1737, 802, 57, 17" ElementType="Text" Guid="c0aab94d-d373-4aa2-9f75-7312d01d6f37" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopLeft" X="16" Y="15" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="8bf9e0216e8f1a43e1c2ffa569739b50.png" xmlns="">0d4lMhaVcx0OalfIFxkZMmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

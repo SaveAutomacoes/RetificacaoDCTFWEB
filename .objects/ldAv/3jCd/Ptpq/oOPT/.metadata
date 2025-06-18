@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Serviços(1)",
+  "Type": "Element",
+  "Id": "oOPTR2fJP0ykZc59AwV-1A",
+  "Reference": "38Jer1OgyU2lO2L63JowIQ/oOPTR2fJP0ykZc59AwV-1A",
+  "ParentRef": "38Jer1OgyU2lO2L63JowIQ/Ptpq5mEL6Umky9yObY06KQ",
+  "Created": "2025-06-06T18:58:56.4856146Z",
+  "Updated": "2025-06-06T18:58:56.4856146Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

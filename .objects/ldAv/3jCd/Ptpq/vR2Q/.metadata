@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nenhuma declaração enco…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vR2Qf5v2XEicJmtYNVY3BQ",
+  "Reference": "38Jer1OgyU2lO2L63JowIQ/vR2Qf5v2XEicJmtYNVY3BQ",
+  "ParentRef": "38Jer1OgyU2lO2L63JowIQ/Ptpq5mEL6Umky9yObY06KQ",
+  "Created": "2025-06-13T16:44:41.467418Z",
+  "Updated": "2025-06-13T16:44:41.467418Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
